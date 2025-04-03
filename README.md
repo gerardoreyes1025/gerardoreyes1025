@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Gerardo Reyes 
+<h1 align="center">¡Hola! 👋 Soy Gerardo Reyes</h1>
 
 <h3 align="center">Ingeniero de Sistemas | Automatización y Procesos | Futuro Data Engineer</h3>
 
