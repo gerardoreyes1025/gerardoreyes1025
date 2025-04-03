@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AC3F7&center=true&width=435&lines=Ingeniero+de+Sistemas;Especialista+en+Automatización;Futuro+Data+Engineer" alt="Título animado">
-</p>
+<div align="center">
+  <button onclick="switchLanguage('es')">🇪🇸 Español</button>
+  <button onclick="switchLanguage('en')">🇬🇧 English</button>
+</div>
+<div id="es-content">
 
 <h1 align="center">¡Hola! 👋 Soy Gerardo Reyes</h1>
 
@@ -45,3 +47,8 @@
 
 ## 📫 Contacto  
 ✉️ gerardoreyes1025@gmail.com  
+</div>
+
+<div id="en-content">
+
+</div>
