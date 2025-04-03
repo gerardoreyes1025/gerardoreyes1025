@@ -52,3 +52,5 @@
 <div id="en-content">
 
 </div>
+
+<script> function switchLanguage(lang) { document.getElementById('es-content').style.display = (lang === 'es') ? 'block' : 'none'; document.getElementById('en-content').style.display = (lang === 'en') ? 'block' : 'none'; } </script>
