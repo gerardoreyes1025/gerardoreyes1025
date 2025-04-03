@@ -2,6 +2,12 @@
 
 **Ingeniero de Sistemas | Automatización y Procesos | Futuro Data Engineer**  
 
+> *"Transformo problemas operativos en soluciones automatizadas eficientes."*  
+
+## 📫 Contacto  
+✉️ gerardoreyes1025@gmail.com  
+
+
 ## 🚀 Sobre mí  
 
 - ⚡ **Automatizo procesos críticos**: Diseño soluciones para eliminar tareas repetitivas, reducir errores y optimizar flujos de trabajo con tecnología.  
@@ -40,7 +46,3 @@
 🔗 *Disponibles en mi perfil de GitHub*  
 
 
-## 📫 Contacto  
-✉️ gerardoreyes1025@gmail.com  
-
-> *"Transformo problemas operativos en soluciones automatizadas eficientes."*  
