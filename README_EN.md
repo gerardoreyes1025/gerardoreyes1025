@@ -33,8 +33,9 @@
 - 🌱 **Intensive training**: Acquiring skills in scalable data architectures and cloud environments.  
 
 ## GitHub Stats:
-
+<div align="center">
 ![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
 ## 🛠 Technical Skills  
 
 ### 🤖 Automation & Development  
