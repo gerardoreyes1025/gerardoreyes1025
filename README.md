@@ -4,10 +4,6 @@
 
 > *"Transformo problemas operativos en soluciones automatizadas eficientes."*  
 
-## 📫 Contacto  
-✉️ gerardoreyes1025@gmail.com  
-
-
 ## 🚀 Sobre mí  
 
 - ⚡ **Automatizo procesos críticos**: Diseño soluciones para eliminar tareas repetitivas, reducir errores y optimizar flujos de trabajo con tecnología.  
@@ -44,5 +40,8 @@
 
 ## 🌟 Proyectos Destacados  
 🔗 *Disponibles en mi perfil de GitHub*  
+
+## 📫 Contacto  
+✉️ gerardoreyes1025@gmail.com  
 
 
