@@ -41,6 +41,8 @@
 
 ## 🛠 Technical Skills  
 
+<div align="center">
+
 ### 🤖 Automation & Development  
 | Area               | Technologies/Skills                  |
 |--------------------|------------------------------------------|
@@ -58,7 +60,7 @@
 | **Security**       | ISO 27001, access controls           |
 | **Infrastructure** | Active Directory, Linux basics           |
 
-
+</div>
 
 ## 📫 Contact  
 ✉️ gerardoreyes1025@gmail.com
