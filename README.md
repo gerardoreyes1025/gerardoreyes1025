@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]  
+# ¡Hola! 👋 Soy Gerardo Reyes 
 
 **Ingeniero de Sistemas | Automatización y Procesos | Futuro Data Engineer**  
 
