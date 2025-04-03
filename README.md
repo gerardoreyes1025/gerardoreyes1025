@@ -6,6 +6,12 @@
 <a href="./README_EN.md">
   <img src="https://img.shields.io/badge/🇬🇧 English-0077B5?style=for-the-badge&logoColor=white&labelColor=101010" alt="English">
 </a>
+<a href="./README_PT.md">
+  <img src="https://img.shields.io/badge/🇵🇹 Português-2CA02C?style=for-the-badge&logoColor=white" alt="Português">
+</a>
+<a href="./README_QU.md">
+  <img src="https://img.shields.io/badge/🏳️ Runasimi-FFD700?style=for-the-badge&logoColor=black" alt="Qhichwa simi">
+</a>
 </div>
 
 <h1 align="center">¡Hola! 👋 Soy Gerardo Reyes</h1>
