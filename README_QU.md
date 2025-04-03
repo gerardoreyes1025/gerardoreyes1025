@@ -31,6 +31,10 @@
 - 🖥️ **Infraestructura kamachiy**: Active Directory, Linuxpi llamk'ay.  
 - 🌱 **Yachakushani**: Datos arquitectura, cloud nisqapi llamk'ay.  
 
+## GitHub Stats:
+
+![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 🛠 Yachay llamk'ay  
 
 ### 🤖 Unanchana & Desarrolloy  
@@ -49,10 +53,6 @@
 | **Ruway maskhay**| Bizagi (BPMN)                     |
 | **Hark'ay**      | ISO 27001, hayñikuna control      |
 | **Infraestructura** | Active Directory, Linux básico |
-
-## GitHub Stats:
-
-![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Rimay  
 ✉️ gerardoreyes1025@gmail.com

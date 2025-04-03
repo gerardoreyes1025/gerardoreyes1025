@@ -32,6 +32,9 @@
 - 🖥️ **Infrastructure management**: Active Directory administration and ad-hoc solutions deployment.  
 - 🌱 **Intensive training**: Acquiring skills in scalable data architectures and cloud environments.  
 
+## GitHub Stats:
+
+![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 🛠 Technical Skills  
 
 ### 🤖 Automation & Development  
@@ -51,9 +54,7 @@
 | **Security**       | ISO 27001, access controls           |
 | **Infrastructure** | Active Directory, Linux basics           |
 
-## GitHub Stats:
 
-![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Contact  
 ✉️ gerardoreyes1025@gmail.com

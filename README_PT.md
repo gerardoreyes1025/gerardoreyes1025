@@ -31,6 +31,10 @@
 - 🖥️ **Gestão de infraestrutura**: Administração de acessos (Active Directory) e implantação de soluções ad-hoc.  
 - 🌱 **Em formação intensiva**: Adquirindo competências em arquiteturas de dados escaláveis e ambientes cloud.  
 
+## Estatísticas GitHub:
+
+![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 🛠 Habilidades Técnicas  
 
 ### 🤖 Automação e Desenvolvimento  
@@ -50,9 +54,6 @@
 | **Segurança**      | ISO 27001, controles de acesso           |
 | **Infraestrutura** | Active Directory, Linux básico           |
 
-## Estatísticas GitHub:
-
-![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Contato  
 ✉️ gerardoreyes1025@gmail.com
