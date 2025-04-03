@@ -1,3 +1,13 @@
+<div align="center">
+<!-- Selector de idioma -->
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/🇪🇸 Español-FFFFFF?style=for-the-badge&logoColor=white&labelColor=101010" alt="Español">
+</a>
+<a href="./README_EN.md">
+  <img src="https://img.shields.io/badge/🇬🇧 English-0077B5?style=for-the-badge&logoColor=white&labelColor=101010" alt="English">
+</a>
+</div>
+
 <h1 align="center">¡Hola! 👋 Soy Gerardo Reyes</h1>
 
 <h3 align="center">Ingeniero de Sistemas | Automatización y Procesos | Futuro Data Engineer</h3>
