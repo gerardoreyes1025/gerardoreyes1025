@@ -34,9 +34,15 @@
 
 ## GitHub Stats:
 
+<div align="center">
+  
 ![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+</div>
+
 ## 🛠 Habilidades Técnicas  
+
+<div align="center">
 
 ### 🤖 Automatización y Desarrollo  
 | Área               | Tecnologías/Habilidades                  |
@@ -55,6 +61,11 @@
 | **Seguridad**      | ISO 27001, controles de acceso           |
 | **Infraestructura**| Active Directory, Linux básico           |
 
+</div>
 
-## 📫 Contacto  
-✉️ gerardoreyes1025@gmail.com  
+##
+<p align="center">
+  <a href="mailto:gerardoreyes1025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p> 
