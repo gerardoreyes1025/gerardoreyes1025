@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Gerardo Reyes 
 
-**Ingeniero de Sistemas | Automatización y Procesos | Futuro Data Engineer**  
+> *"Transformo problemas operativos en soluciones automatizadas eficientes."*
 
-> *"Transformo problemas operativos en soluciones automatizadas eficientes."*  
+**Ingeniero de Sistemas | Automatización y Procesos | Futuro Data Engineer**  
 
 ## 🚀 Sobre mí  
 
