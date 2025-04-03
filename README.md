@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AC3F7&center=true&width=435&lines=Ingeniero+de+Sistemas;Especialista+en+Automatización;Futuro+Data+Engineer" alt="Título animado">
+</p>
+
 <h1 align="center">¡Hola! 👋 Soy Gerardo Reyes</h1>
 
 <h3 align="center">Ingeniero de Sistemas | Automatización y Procesos | Futuro Data Engineer</h3>
@@ -35,14 +39,9 @@
 | **Seguridad**      | ISO 27001, controles de acceso           |
 | **Infraestructura**| Active Directory, Linux básico           |
 
-
-
 ## GitHub Stats:
 
 ![gerardoreyes1025's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardoreyes1025&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-
 ## 📫 Contacto  
 ✉️ gerardoreyes1025@gmail.com  
-
-
